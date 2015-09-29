@@ -1,0 +1,6 @@
+#customize-control-blogname input{
+	background-color: pink;
+    font-family: monospace;
+    color: darkblue;
+    padding: 20px 10px;
+}
